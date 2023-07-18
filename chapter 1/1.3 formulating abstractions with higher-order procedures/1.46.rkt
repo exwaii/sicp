@@ -11,8 +11,6 @@
 
 (define (square x) (* x x))
 
-
-
 (define (average a b) (/ (+ a b) 2))
 
 (define (sqrt x)
